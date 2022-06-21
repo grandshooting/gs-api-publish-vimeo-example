@@ -1,0 +1,17 @@
+{
+  "name": "gs-api-publish-vimeo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.7.2",
+    "lodash": "^4.17.21",
+    "superagent": "^7.1.6",
+    "vimeo": "^2.1.1"
+  }
+}

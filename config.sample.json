@@ -1,0 +1,10 @@
+{
+	"token" : "",
+	"auth": {
+		"1" : {
+			"access_token" : "",
+			"client_id" : "",
+			"client_secret" : ""
+		}
+	}
+}
