@@ -8,7 +8,7 @@ Create an app in your Vimeo developer console (https://developer.vimeo.com/). Th
 ![Private app](/img/private_app.png)
 
 
-Create an access_token allowing you to upload videos
+Create an access_token allowing you to upload videos (select "Authenticated (you)")
 
 ![create token](/img/generate_access_token.png)
 
